@@ -1,0 +1,60 @@
+html{
+	font-family: Tahoma;
+}
+
+#lewy{
+	background-color: #003d33;
+	color: white;
+	text-align: center;
+	height: 50px;
+	width: 70%;
+	float: left;
+	clear: both;
+}
+
+#prawy{
+	background-color: #003d33;
+	color: white;
+	text-align: center;
+	height: 50px;
+	width: 30%;
+	float: left;
+}
+
+#left{
+	background-color: #26a69a;
+	height: 550px;
+	width: 30%;
+	float: left;
+}
+
+#right{
+	background-color: #26a69a;
+	height: 550px;
+	width: 70%;
+	float: left;
+}
+
+footer{
+	 background-color: #003d33;
+	 color: white;
+}
+
+div{
+	width: 400px;
+	margin: 30px;
+	text-align: center;
+	border: 1px solid #003d33;
+	clear: both;
+}
+
+button{
+	background-color: #003d33;
+	color: white;
+	height: 30px;
+	width: 100%;
+}
+
+button:hover{
+	background-color: #004c40;
+}
