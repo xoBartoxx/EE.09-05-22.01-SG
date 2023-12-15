@@ -99,7 +99,7 @@
 		
 		
 		<footer>
-			<p>Stronę wykonał: 00000000</p>
+			<p>Stronę wykonał: xoBartoxx</p>
 		</footer>
 	</body>
 
